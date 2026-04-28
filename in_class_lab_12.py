@@ -51,6 +51,40 @@ print("hello world. . . ")
 
 print("This is the start of the Lab 12.")
 
+# back in the day you have to highlight nouns, verbs,
+# adjectives from the paragraph.
+
+# once completed, begin assigning the nouns, verbs and
+# adjectives to classes, instance variables, methods,
+# composition.
+
+# you can model this in UML before you start
+# actually coding.
+
+# mermaid live is a free charting tool that INS. Trevor loves.
+
+
+# useful because it uses and provides TEXT that
+# you can use elsewhere. (into the chatbox)
+
+# adding skeleton to the prompt, it lets the chatbot
+# know not to add random things
+
+# "java and python are similarly structured concerning
+# objects."
+# "UML can be useful for sketching a
+# sort of blueprint to "
+
+# in the future designing might be more important
+# than direct syntax-ical knowledge
+
+# java is a statically typed language
+
+# open pycharm; . . .
+
+
+
+
 
 
 
